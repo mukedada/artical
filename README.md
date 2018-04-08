@@ -7,6 +7,8 @@
 - [漫谈进程和线程](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483802&idx=1&sn=04bd1252c485907b3026c95ef0f21949&chksm=fbd58370cca20a66f29030729515056f2f76dde931dc49dcb9c14b604368c1a62aa8100ae298#rd)
 - [漫谈计算机编程语言](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483779&idx=1&sn=a9a7f7634784fdab6ccbf79cd0decaf6&chksm=fbd58369cca20a7f1dec0c60a51fc5a50246ef46d63e8597f070081b6a5d10c09c98cece5af5#rd)
 - [漫谈虚拟内存](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483820&idx=1&sn=df89896d8c0125161ebb89ce3e290c3c&chksm=fbd58346cca20a50e16fa526cded1d07da28a6e30d050f09a847bbe9e5c11f37673d892987c4#rd)
+- [漫谈文件系统](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483840&idx=1&sn=3845446b81593984a8adbfb68f852061&chksm=fbd5832acca20a3c0372d122f0898dcc584ada3c244abc458efdb3f57c82100803a9b2a5d37b#rd)
+- [漫谈版本控制系统](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483834&idx=1&sn=6d38d34a1cd45221cd997f21e70af4f6&chksm=fbd58350cca20a46cef87bc6682edd694fcf69ae31a3069cfff2d2bf4a44d89e752248c3f81c#rd)
 
 ## 数据库
 - [数据库逻辑设计](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483771&idx=1&sn=bde60ae64046af093cc608c5e8e7003a&chksm=fbd58391cca20a8775c387a257ca59c557d50e5bfa2553b4d4697c349cc215da1eb1f3fe58b9#rd)
