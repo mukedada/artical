@@ -23,6 +23,7 @@
 - [初始Python](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483783&idx=1&sn=ef201e933c0a3b02c1894f1e10cfc7f3&chksm=fbd5836dcca20a7bc3ca717f9f11b74075b62dbf1cab35922f1e2dba732c4a9aa7d0ce0c97d6#rd)
 - [UML](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483846&idx=1&sn=b47b0dd63bc886789280a5ae6c2c6881&chksm=fbd5832ccca20a3a34369b1bd81aeaca7c95b0f3337e6b4534254e6033ca0e42d01643a996cd#rd)
 - [面向过程设计 VS 面向对象设计](https://mp.weixin.qq.com/s?__biz=MzU1NTQwNzIzNw==&mid=2247483755&idx=1&sn=31e04d304b5d7248c00158a7e98d3f0a&chksm=fbd58381cca20a977aab5897604bdd9086a82e228068f65e50e45025fb104fd85fa6a5328602#rd)
+- [编写优雅代码的最佳实践](https://mp.weixin.qq.com/s/txMACyMPO_3GYH5q9HQQ_A)
 
 
 ## 架构设计
